@@ -11,9 +11,13 @@ their pay range.
 
 ## Installation
 1. Install python
-        pip install python3
+   ```
+   pip install python
+   ```
 2. Install pandas
-        pip install pandas
+   ```
+    pip install pandas
+   ```
 3. Install matplotlib
         pip install matplotlib
 4. Install seaborn
