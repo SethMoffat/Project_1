@@ -26,28 +26,10 @@ their pay range.
    ```
    pip install seaborn
    ```
-
-
-5. Install scipy -- is this used?
-   ```
-   pip install scipy
-   ```
-6. Install numpy -- is this used?
+5. Install numpy
    ```
    pip install numpy
    ```
-7. Install prophet -- is this used?
-   ```
-   pip install prophet
-   ```
-8. Install datetime -- is this used?
-   ```
-   pip install datetime
-   ```
-9.  Install IPython.display -- is this used?
-   ```
-   pip install IPython.display
-   ```
 
 ## Data Sourcing
-<Project Name> was built using data taken from [This HR ANALytics Dataset from Kaggle](https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset/data).
+<Project Name> was built using data taken from [This HR Analytics Dataset from Kaggle](https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset/data).
