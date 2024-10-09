@@ -16,24 +16,38 @@ their pay range.
    ```
 2. Install pandas
    ```
-    pip install pandas
+   pip install pandas
    ```
 3. Install matplotlib
-        pip install matplotlib
+   ```
+   pip install matplotlib
+   ```
 4. Install seaborn
-        pip install seaborn
+   ```
+   pip install seaborn
+   ```
 
 
 5. Install scipy -- is this used?
-        pip install scipy
+   ```
+   pip install scipy
+   ```
 6. Install numpy -- is this used?
-        pip install numpy
+   ```
+   pip install numpy
+   ```
 7. Install prophet -- is this used?
-        pip install prophet
+   ```
+   pip install prophet
+   ```
 8. Install datetime -- is this used?
-        pip install datetime
+   ```
+   pip install datetime
+   ```
 9.  Install IPython.display -- is this used?
-        pip install IPython.display
+   ```
+   pip install IPython.display
+   ```
 
 ## Data Sourcing
 <Project Name> was built using data taken from [This HR ANALytics Dataset from Kaggle](https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset/data).
