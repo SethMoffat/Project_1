@@ -20,3 +20,6 @@ The following visualizations were created to better understand the relationships
 - **Churn Rate by Age Group and Department**: A bar plot showing the average churn rate across different age groups within each department.
 - **Age Distribution vs. Churn**: A histogram showing how churn rates vary across different age groups.
 - **Churn Rate by Monthly Income**: A scatter plot visualizing how monthly income influences the likelihood of churn.
+
+- ## Acknowledgements
+- Thank you to my partners Seth Moffat, Roger Navarro, and Tahir Pervez. The group used.[this H.R. Analytics Dataset from Kaggle].(https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) 
